@@ -10,4 +10,4 @@
 // console.log(typeof state, state2);
 // symbol datatype is for uniqueness works
 // Number("33") = 33, Number("33dsad") = NaN
-// "NaN" type is a number type data even though that means Not A Number; 
+// "NaN" type is a number type data even though that means Not A Number;
