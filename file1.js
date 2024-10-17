@@ -19,4 +19,4 @@
 const name = "mizan";
 const age = 25;
 console.log("hi, I'm " + name + ". My age is " + age +"."); // bad concatination practice 
-console.log(`hi, I'm ${name}. My age is ${age}.`); // better concatination practice (sting interpolation)
+console.log(`hi, I'm ${name}. My age is ${age}.`); // better concatination practice (string interpolation)
