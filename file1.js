@@ -12,9 +12,11 @@
 // Number("33") = 33, Number("33dsad") = NaN
 // "NaN" type is a number type data even though that means Not A Number;
 
+// const bN = 65986656598563543521635746n
+// console.log(typeof bN);
+
 // concatination : "1" + 2 = 12, 1 + "2" = 12, "1" + 2 + 4 == 124, 1 + 2 + "4" == 34,
-
-
-
-const bN = 65986656598563543521635746n
-console.log(typeof bN);
+const name = "mizan";
+const age = 25;
+console.log("hi, I'm " + name + ". My age is " + age +"."); // bad concatination practice 
+console.log(`hi, I'm ${name}. My age is ${age}.`); // better concatination practice (sting interpolation)
