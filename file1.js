@@ -11,3 +11,5 @@
 // symbol datatype is for uniqueness works
 // Number("33") = 33, Number("33dsad") = NaN
 // "NaN" type is a number type data even though that means Not A Number;
+
+// concatination : "1" + 2 = 12, 1 + "2" = 12, "1" + 2 + 4 == 124, 1 + 2 + "4" == 34,
